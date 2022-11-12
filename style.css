@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: white;
+}
+main{
+  margin: auto;
+  padding: 20px 30px;
+  border: 2px black solid;
+}
+.heading{
+  font-size: 18px;
+}
+.first-section, .Second-Section, .Third-section {
+  margin-top: 20px;
+}
+
+.par{
+  color: green;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+}
+.sec{
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+}
+.three{
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+}
